@@ -10,7 +10,7 @@ Based in Germany 🇩🇪
 
 ## 🔧 Tech Stack:
 - **Languages**: Python, SQL, R, C#
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
+- **Libraries & Frameworks**: Pandas, NumPy, RegEx, Scikit-Learn, TensorFlow, Keras, nltk, spaCy
 - **Databases**: SQLite, PostgreSQL
 - **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit
 - **Version Control**: Git, GitHub
