@@ -20,5 +20,11 @@ Based in Germany 🇩🇪
 ## 📚 Currently Learning:
 - Deepening knowledge of **Data Engineering** and **Computer Vision**
 
+## Languages:
+- **Russian** 🇷🇺
+- **Azerbaijani** 🇦🇿
+- **English** 🇬🇧
+- **German** 🇩🇪
+
 ## 🔗 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ayygee24/)
