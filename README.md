@@ -1,6 +1,7 @@
 # Hi, I'm Akshin! 👋
 
 I'm a passionate **Data Scientist** | **Machine Learning Enthusiast** | **Python Developer**  
+From Azerbaijan 🇦🇿  
 Based in Germany 🇩🇪
 
 ## 💼 Currently working on:
