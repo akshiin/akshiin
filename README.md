@@ -5,9 +5,9 @@ From Azerbaijan <img src="https://flagcdn.com/w320/az.png" width="20" alt="Azerb
 Based in Germany <img src="https://flagcdn.com/w320/de.png" width="20" alt="Germany">
 
 ## 💼 Currently working on:
-- 📊 **Data Analysis** and **Machine Learning** projects using Python
-- 🧠 Developing models for **trend analysis** and **predictive analytics**
-- 🛠 Building **web apps** for **data visualization** and **interactive dashboards**
+- **Data Analysis** and **Machine Learning** projects using Python
+- Developing models for **trend analysis** and **predictive analytics**
+- Building **web apps** for **data visualization** and **interactive dashboards**
 
 ## 🔧 Tech Stack:
 - **Languages**: Python, SQL, R, C#
