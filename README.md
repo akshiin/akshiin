@@ -12,8 +12,8 @@ Based in Germany 🇩🇪
 ## 🔧 Tech Stack:
 - **Languages**: Python, SQL, R, C#
 - **Libraries & Frameworks**: Pandas, NumPy, RegEx, Scikit-Learn, TensorFlow, Keras, nltk, spaCy
-- **Databases**: SQLite, PostgreSQL
-- **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit
+- **Databases**: SQLite, PostgreSQL, Google BQ
+- **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit, Tableau, Google Looker Studio
 - **Version Control**: Git, GitHub
 - **Cloud & Deployment**: AWS, Docker
 
